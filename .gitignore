@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.xml
+*.psd
+build/
+*.log
+rev/
+template/
+static/
+src/views/ui
+node_modules/
